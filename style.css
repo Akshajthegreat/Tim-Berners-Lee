@@ -8,6 +8,7 @@ body {
     text-align: center;
     margin: 0;
     padding-top: 800px;
+    background-color: beige;
 
 }
 
@@ -34,9 +35,10 @@ body {
 }
 
 #bio {
-    padding: 50px;
+    padding: 200px;
     text-align: center;
     font-size: 52px;
+    
 }
 
 .line {
@@ -104,4 +106,13 @@ h2 {
 
 .link:hover {
     background-color: cornflowerblue;
+}
+a{
+ text-decoration: none;   
+}
+.article:hover{
+    color:cornflowerblue;
+}
+html{
+    scroll-behavior: smooth;
 }
